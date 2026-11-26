@@ -1,1 +1,189 @@
+# Privacy Policy – PERDL
 
+**Effective date: November 26, 2026**
+
+## 1. Introduction
+
+This Privacy Policy explains how the PERDL mobile application ("PERDL", the "App", "we", "us" or "our") handles information when you use the App.
+
+PERDL is a logic-based mobile game available to the general public.
+
+The App does not require users to create an account or register to play.
+
+## 2. Information Stored Locally
+
+The App stores certain information locally on your device to provide its functionality, including:
+
+- Game progress and results.
+- App preferences and settings.
+- Other technical configuration data required for the App to function.
+
+This information is stored locally on your device. The operator does not operate its own user database or cloud service for storing game progress.
+
+You can generally remove locally stored App data by clearing the App's data through your device settings or by uninstalling the App. The availability of backups or restored data may depend on your device and operating system settings.
+
+## 3. Advertising and Third-Party Services
+
+The App uses Google AdMob, an advertising service provided by Google LLC, to display advertisements.
+
+The App may display different types of advertisements, including banner advertisements and full-screen advertisements.
+
+The Google Mobile Ads SDK and its advertising partners may automatically collect and process certain information, including:
+
+- IP address.
+- Device and advertising identifiers, including the Android Advertising ID where available.
+- Apple's Identifier for Advertisers (IDFA) on iOS, where access is permitted.
+- Device information, such as device model, operating system and language.
+- App interactions and advertising interactions.
+- Diagnostic information, including crash and performance data.
+
+This information may be used for advertising delivery, personalization, ad measurement, analytics, frequency capping, fraud prevention, security and related purposes.
+
+Depending on the user's location, applicable consent choices, device permissions and advertising configuration, Google may serve personalized, non-personalized or other eligible types of advertisements.
+
+The App operator does not independently control all data processing performed by Google or its advertising partners.
+
+For more information, please refer to:
+
+- [Google Privacy Policy](https://policies.google.com/privacy)
+- [How Google uses information from apps and sites that use its services](https://policies.google.com/technologies/partner-sites)
+- [Google AdMob Help](https://support.google.com/admob/)
+
+## 4. Advertising Consent and Privacy Choices
+
+The App uses Google's User Messaging Platform (UMP) to present privacy and consent messages where applicable.
+
+### European Economic Area, United Kingdom and Switzerland
+
+Users in the European Economic Area (EEA), the United Kingdom and Switzerland may be presented with a consent message concerning the use of personal data for advertising purposes.
+
+Depending on the applicable requirements and the message displayed, users may be asked to make choices concerning:
+
+- Personalized advertising.
+- Non-personalized advertising.
+- The processing of information based on consent or legitimate interest.
+- Advertising partners and their purposes for processing information.
+
+Users can make their choices through the consent message and, where available, review or change them through the privacy options provided in the App.
+
+### United States
+
+Depending on the user's state of residence, users may have additional privacy rights under applicable U.S. state privacy laws.
+
+These rights may include the right to:
+
+- Opt out of the sale or sharing of personal information.
+- Opt out of the processing of personal information for targeted advertising.
+- Opt out of certain types of profiling, where applicable.
+- Request access to, correction of or deletion of personal information.
+- Appeal a decision concerning a privacy request, where applicable.
+
+Where required, the App may display a separate privacy message for users in applicable U.S. states. Users can make their privacy choices through the available consent and privacy options.
+
+The legal meaning of terms such as "sale", "sharing" and "targeted advertising" depends on the applicable state law. The use of third-party advertising services may involve disclosures of information that are treated as sharing or targeted advertising under certain laws, even if the operator does not receive payment for the information.
+
+### Changing Privacy Choices
+
+Users may be able to review or change their advertising privacy choices through the consent management options made available in the App.
+
+Further information about Google's consent technology is available at:
+
+[Google User Messaging Platform](https://developers.google.com/admob/android/privacy)
+
+## 5. Apple's Advertising Identifier (IDFA)
+
+On iOS devices, the App and its advertising service providers may use Apple's Identifier for Advertisers (IDFA) for advertising-related purposes, where permitted.
+
+Access to IDFA for tracking purposes is controlled by Apple's App Tracking Transparency (ATT) framework.
+
+If the App requests permission to track users, iOS displays Apple's system permission dialog. Users can allow or deny tracking, and can change their choice later in their device settings.
+
+If permission is denied, the App and its advertising partners will not have access to IDFA for tracking through Apple's ATT framework. Advertising services may still use other permitted information and methods to provide eligible advertisements, subject to applicable privacy requirements and user choices.
+
+The Google UMP consent process and Apple's ATT permission are separate mechanisms. Giving consent through a Google privacy message does not automatically grant permission to access IDFA.
+
+More information:
+
+[Apple – User privacy and data use](https://developer.apple.com/app-store/user-privacy-and-data-use/)
+
+## 6. Data Sharing
+
+The App operator does not sell personal information in exchange for money.
+
+Information collected through Google AdMob may be disclosed to Google and relevant advertising partners or service providers as necessary to provide advertisements, personalize advertising where permitted, measure advertising performance, prevent fraud and provide related services.
+
+Depending on applicable law, some disclosures to advertising partners may be considered the sale or sharing of personal information or processing for targeted advertising. Where required, users are provided with appropriate privacy choices.
+
+Such processing is subject to the applicable privacy policies and terms of the relevant third-party providers.
+
+The App operator does not operate its own advertising network or user profiling database.
+
+## 7. Analytics
+
+The App operator does not currently use a separate third-party analytics service such as Google Analytics or Firebase Analytics.
+
+However, Google AdMob and its partners may process certain technical, diagnostic and interaction information for advertising measurement, analytics, security and fraud prevention purposes as described in this Privacy Policy.
+
+## 8. In-App Purchases
+
+The App does not currently offer in-app purchases.
+
+If in-app purchases are introduced in a future version, this Privacy Policy will be updated where necessary to describe the relevant payment processing and data practices.
+
+## 9. Data Retention and Deletion
+
+Game progress and App settings are stored locally on the user's device.
+
+The App operator does not maintain its own cloud database containing users' game progress.
+
+Information processed by Google through its advertising services is retained in accordance with Google's applicable data retention and deletion policies.
+
+For information about data processed by Google, users should refer to Google's Privacy Policy and available privacy controls.
+
+## 10. Data Security
+
+The App operator takes reasonable technical and organizational measures to protect information processed directly by the App.
+
+Information processed through third-party services is subject to the security measures implemented by those service providers.
+
+However, no method of electronic storage or transmission can be guaranteed to be completely secure.
+
+## 11. Children's Privacy
+
+PERDL is a general-audience logic game.
+
+The App does not require users to provide personal contact information or create an account to play.
+
+The App operator does not knowingly collect personal information directly from children through its own registration or account system.
+
+Advertising services integrated into the App may process device and usage information as described in this Privacy Policy. Such services are subject to their own privacy policies and applicable legal requirements, including requirements relating to children.
+
+## 12. Your Privacy Rights
+
+Depending on your location and applicable data protection laws, you may have rights concerning your personal information, including the right to:
+
+- Request access to your personal information.
+- Request correction or deletion of personal information.
+- Request restriction of certain processing.
+- Object to certain types of processing.
+- Withdraw consent where processing is based on consent.
+- Opt out of the sale or sharing of personal information or targeted advertising, where applicable.
+- Lodge a complaint with a relevant data protection authority.
+
+To contact the App operator regarding privacy matters, please use the email address provided below.
+
+For information processed directly by Google, users may also use Google's privacy controls and contact options.
+
+## 13. Changes to This Privacy Policy
+
+This Privacy Policy may be updated from time to time to reflect changes in the App, third-party services, data processing practices or applicable legal requirements.
+
+The latest version will be made available at the public website address linked from the App's Google Play Store listing.
+
+## 14. Contact
+
+For questions or requests concerning this Privacy Policy or the App's privacy practices, please contact:
+
+**Oleksandr Dymarchuk**  
+Rychnov u Jablonce nad Nisou, Czech Republic  
+**Email:** dev+dymarchuk@gmail.com
